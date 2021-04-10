@@ -1,0 +1,17 @@
+.container{
+	background-image: linear-gradient(to bottom right, #cc9966, #edd8c4);
+  width: 410px;
+  height:410px;
+  border: 5px solid #267326;
+  padding: 75px;
+  margin: 90px 470px;
+  border-radius: 15px;
+}
+.btn{
+	margin-top: 20px;
+	float:right;
+}
+p{
+	float:right;
+
+}

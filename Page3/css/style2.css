@@ -1,0 +1,15 @@
+h1{
+	text-align: center;
+}
+.col-sm-10{
+	background-image: linear-gradient(to bottom right, #6699ff, #cce0ff);
+  width: 80%;
+  border: 5px solid #00004d;
+  padding: 35px;
+  margin-left: 15px;
+  border-radius: 15px;
+}
+.btn{
+	float:right;
+	margin-right: 25px;
+}
